@@ -1,0 +1,85 @@
+/**
+ * Material Design Palette
+ * https://material.google.com/style/color.html#color-color-palette
+ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.5; }
+
+body {
+  padding: 1em; }
+
+[style*="white background"] {
+  background-color: #FFFFFF; }
+
+[style*="black background"] {
+  background-color: #000000; }
+
+[style*="light text"] {
+  color: #FFFFFF; }
+
+[style*="dark text"] {
+  color: #000000; }
+
+[style*="border"] {
+  border-width: 1px;
+  border-style: solid; }
+
+[style*="black border"] {
+  border-color: #000000; }
+
+[style*="white border"] {
+  border-color: #FFFFFF; }
+
+[style*="red-500 border"] {
+  border-color: #F44336; }
+
+[style*="indigo-500 border"] {
+  border-color: #3F51B5; }
+
+[style*="thin border"] {
+  border-width: 1px; }
+
+[style*="thick border"] {
+  border-width: 3px; }
+
+[style*="really thick border"] {
+  border-width: 8px; }
+
+[style*="rounded"] {
+  border-radius: 5px; }
+
+[style*="lots of padding"] {
+  padding: 2em; }
+
+[style*="normal padding"] {
+  padding: 1em; }
+
+[style*="drop shadow"] {
+  box-shadow: 0 1em 1em rgba(0, 0, 0, 0.5); }
+
+[style*="full width"] {
+  width: 100%; }
+
+[style*="three quarters width"] {
+  width: 75%; }
+
+[style*="half width"] {
+  width: 50%; }
+
+[style*="quarter width"] {
+  width: 25%; }
+
+[style*="inline"] {
+  display: inline; }
+
+[style*="inline-block"] {
+  display: inline-block; }
+
+[style*="flex"] {
+  display: flex; }
+
+.home {
+  display: inline-block; }

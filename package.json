@@ -1,0 +1,19 @@
+{
+  "name": "pantarei",
+  "version": "1.0.0",
+  "description": " A behaviour driven design language for CSS with BDD testing on the side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitri Anoudis",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-useref": "^3.1.0"
+  }
+}
